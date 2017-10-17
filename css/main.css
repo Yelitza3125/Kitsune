@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+.principal {
+    background-color: #00cccc;
+}
+
+h1:hover {
+    color: white;
+}
+#title {
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+    font-size: 70px;
+    font-family: Roboto, "sans serif";
+    margin: auto;
+    border: 5px solid  #009999;
+}
+
+p, ul {
+    color: black;
+    font-family: Calibri;
+    line-height: 1.5em;
+    font-size: 18px;
+}
+
+
+.imagen {
+    width: 450px;
+    vertical-align: top;
+    padding: 10px 8px 10px 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+p {
+    width: 65%;
+    display: inline-block;
+    text-align: justify;
+}
+
+h2 {
+   color: black; 
+}
